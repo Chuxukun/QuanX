@@ -14,7 +14,7 @@
  * 📌 如果希望监控Release，请切换至Release界面，直接复制URL填入；
  */
 
-const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
+const token = "585e70d43e90f821a55d3ea10d92d4aff83e0130";
 
 const repository = [
   {
